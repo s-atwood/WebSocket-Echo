@@ -7,7 +7,7 @@ as a browser alert.</P>
 
 <p>To set up project:</p>
 <ul>
-    <li><code>cd server</code>to change into server directory</li>
+    <li>From project root, <code>cd server</code>to change into server directory</li>
     <li><code>npm install</code> to install "ws" dependency</li>
     <li><code>node server.js</code> to start backend server</li>
     <li><code>cd ../client</code> to switch to client directory</li>
